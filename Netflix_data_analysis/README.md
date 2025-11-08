@@ -30,5 +30,6 @@ This project explores Netflix’s catalog to uncover insights about:
 
 ### 👨‍💻 Author
 **Victor Onoriode**  
-Aspiring Data Analyst | Skilled in Python, Data Visualization & Analytics  
+Data Analyst | Skilled in Python, Data Visualization & Analytics  
 [GitHub Profile](https://github.com/Sogart)
+
